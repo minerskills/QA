@@ -10,36 +10,11 @@ Some specific examples of my work as a QA Lead include:
 
 Overall, my track record as a QA Lead demonstrates my ability to identify and report on issues, work effectively with development teams, and develop and implement effective processes for testing and tracking issues."
 
-Fleetyard Studios and Messy Desk Interactive have very different styles of reporting. Messy Desk required a title, expected behaviour, current behaviour, picture of the map and the version number. 
-Fleetyard on the other hand makes use of ingame reporting which captures info such as location and rotation of the player character, and hardware/software info. This eliminates the need for a picture of the map and version number. To streamline the process for normal players and staff, it was decided that expected behaviour wasn't needed either. 
-To keep the examples of bugs I have reported below in the same style, I'll convert the Messy Desk Formatting over to the Fleetyard formatting. 
 
-## Example 1
+## Bug Example 1
 
-### Possible to regain full access to character movement in certain Menus
+In a development build we ran into an issue which decreased FPS significantly when moving your character in the outer areas of the ship (311FPS -> 16FPS). Using Unreal Engines debug tools, I was able to narrow the problem down to the function that was causing the problem.
 
-#### Current Behaviour
-The player list opens. Once you release TAB you have full control over your movements which should not happen while you are in any menu.
+![unknown](https://user-images.githubusercontent.com/69924175/208081011-7bd2c933-574f-46c3-bd3d-1572e01cfb0b.png)
 
-#### Reproduction Steps
-1. Launch the game at a random location
-2. Open the menu
-3. Click "Quit game"
-4. Select one of the two options
-5. Press TAB twice
-
-Project: The Orville - Interactive Fan Experience 
-## Example 2
-
-### Dead Engineers can still repair panels
-
-#### Current Behaviour
-After killing an engineer he was still able to finish the repair of the panel I destroyed.
-
-#### Reproduction Steps
-1. Destroy any panel
-2. Wait for any engineer to start repairing that panel
-3. Kill the engineer while they are repairing the panel. 
-4. Watch the panel pop into existence
-
-Project: Starship Simulator
+Which then allowed the Developers to fix the issue within a few minutes. 
