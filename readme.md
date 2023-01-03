@@ -9,6 +9,24 @@ In my work at Messy Desk Interactive, I had the opportunity to contribute to The
 
 I am always eager to take on new challenges and learn as much as possible. I look forward to continuing to grow and develop in my career and make a meaningful impact in the gaming industry.
 
+# Skills & Education
+
+## Skills
+
+ -  Proficiency in Java
+ -  Experience with Unreal Engine 4 and 5
+ -  Ability to use debugging tools and identify and troubleshoot problems
+ -  Excellent communication and teamwork skills
+ -  Self learning
+ -  Translation (German -> English)
+
+## Education
+
+At Nelson-Mandela-Gesamtschule Greven
+ -	2021: GCSE O-levels (Realschulabschluss mit Qualifikation)
+ -	Expected 2024: GCE A-levels (Abitur)
+
+
 # Examples of my work
 
 
