@@ -9,6 +9,8 @@ In my work at Messy Desk Interactive, I had the opportunity to contribute to The
 
 I am always eager to take on new challenges and learn as much as possible. I look forward to continuing to grow and develop in my career and make a meaningful impact in the gaming industry.
 
+# Examples of my work
+
 
 ## Example 1
 
@@ -17,3 +19,18 @@ While testing a development build, I noticed a significant decrease in FPS when 
 ![unknown](https://user-images.githubusercontent.com/69924175/208081011-7bd2c933-574f-46c3-bd3d-1572e01cfb0b.png)
 
 This allowed the developers to fix the issue within a few minutes.
+
+## Example 2
+
+One of the challenges we faced as a QA team was the inability to mass move tickets from the "confirmed" status to "assigned" once developers started working on another system. To address this issue, I collaborated with the lead developer to utilize the tags feature of the Mantis bug tracker.
+
+First, we identified the systems that required their own tags and added them to Mantis. I also added descriptions of potential bugs for each system, such as:
+
+    Helm & Flight systems:
+        Ship won't respond to helm input.
+        Location in space is different to what is expected.
+        Ship movement doesn't properly replicate over the network.
+
+Next, I went through every active ticket on the tracker and added the correct tags. This allowed us to more easily track and assign tickets to the appropriate developers. In addition to this, I added a section to the QA process document to document the revised procedure.
+
+Overall, this reform of the bug tracker significantly improved our ability to track and assign tickets, resulting in more efficient and effective quality assurance processes. It also allowed us to prioritise some systems over others.
