@@ -27,9 +27,11 @@ One of the challenges we faced as a QA team was the inability to mass move ticke
 First, we identified the systems that required their own tags and added them to Mantis. I also added descriptions of potential bugs for each system, such as:
 
     Helm & Flight systems:
-        Ship won't respond to helm input.
-        Location in space is different to what is expected.
-        Ship movement doesn't properly replicate over the network.
+    
+       Potential bugs:
+       - Ship won't respond to helm input.
+       - Location in space is different to what is expected.
+       - Ship movement doesn't properly replicate over the network.
 
 Next, I went through every active ticket on the tracker and added the correct tags. This allowed us to more easily track and assign tickets to the appropriate developers. In addition to this, I added a section to the QA process document to document the revised procedure.
 
