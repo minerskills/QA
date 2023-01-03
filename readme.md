@@ -10,10 +10,10 @@ In my work at Messy Desk Interactive, I had the opportunity to contribute to The
 I am always eager to take on new challenges and learn as much as possible. I look forward to continuing to grow and develop in my career and make a meaningful impact in the gaming industry.
 
 
-## Bug Example 1
+## Example 1
 
-In a development build we ran into an issue which decreased FPS significantly when moving your character in the outer areas of the ship (311FPS -> 16FPS). Using Unreal Engines debug tools, I was able to narrow the problem down to the function that was causing the problem.
+While testing a development build, I noticed a significant decrease in FPS when moving my character in the outer areas of the ship (311FPS -> 16FPS). Using my knowledge of Unreal Engine's debug tools, I was able to narrow the problem down to the function that was causing the issue.
 
 ![unknown](https://user-images.githubusercontent.com/69924175/208081011-7bd2c933-574f-46c3-bd3d-1572e01cfb0b.png)
 
-Which then allowed the developers to fix the issue within a few minutes. 
+This allowed the developers to fix the issue within a few minutes.
