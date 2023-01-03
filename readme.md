@@ -1,14 +1,13 @@
 # Short introduction to myself
+Hey!
 
-As one of the QA Leads at Fleetyard Studios, I have played a key role in ensuring the quality and playability of our games. In my 2.5 years with the project, I have identified and reported over 80 issues, and have had over 1000 interactions with our bug tracking system. In addition to my work on Fleetyard's projects, I have also contributed to the testing efforts of Messy Desk Interactive as a QA Tester, where I identified and reported around 200 issues.
+As a highly motivated person with a strong passion for gaming and quality assurance. With experience as both a QA tester and QA lead at Messy Desk Interactive and Fleetyard Studios, I have developed a range of skills and expertise that I believe are extremely valuable in this career path.
 
-Some specific examples of my work as a QA Lead include:
+As a QA tester and QA lead, I have honed my attention to detail and problem-solving skills, as well as my ability to communicate effectively with team members and the general public. In addition to that I have a strong foundation in Java thanks to my computer science classes in school, and am also familiar with Unreal Engine 4 and 5, having explored a number of the features and capabilities offered by the software.
 
+In my work at Messy Desk Interactive, I had the opportunity to contribute to The Orville: Interactive Fan Experience as a QA Tester, and at Fleetyard Studios, I worked on Starship Simulator, testing the game and administrating the bug tracker. Both projects have allowed me to greatly expand my skills and knowledge, especially in regards to communication.
 
-- Developing and implementing a new process for tracking and prioritizing issues in our bug tracker. This process helped to improve the efficiency of our testing efforts and allowed us to more effectively address the most critical issues.
-- Leading the testing efforts for the first ever demo and playtest of Starship Simulator, in preparation for the projects Kickstarter.
-
-Overall, my track record as a QA Lead demonstrates my ability to identify and report on issues, work effectively with development teams, and develop and implement effective processes for testing and tracking issues."
+I am always eager to take on new challenges and learn as much as possible. I look forward to continuing to grow and develop in my career and make a meaningful impact in the gaming industry.
 
 
 ## Bug Example 1
@@ -17,4 +16,4 @@ In a development build we ran into an issue which decreased FPS significantly wh
 
 ![unknown](https://user-images.githubusercontent.com/69924175/208081011-7bd2c933-574f-46c3-bd3d-1572e01cfb0b.png)
 
-Which then allowed the Developers to fix the issue within a few minutes. 
+Which then allowed the developers to fix the issue within a few minutes. 
